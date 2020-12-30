@@ -1,0 +1,26 @@
+h1 {
+    font-size: 85px;
+    text-align: center;
+    padding-bottom: 90px;
+}
+
+li {
+    font-size: 35px;
+    padding: 10px;
+    font-family: cursive;
+}
+
+img {
+    width: 300px;
+}
+
+div {
+    padding: 20px;
+    border-style: solid;
+    background-color:rgb(115, 152, 153);
+}
+
+p {
+    font-size: 18px; 
+    font-family: Georgia;
+}
